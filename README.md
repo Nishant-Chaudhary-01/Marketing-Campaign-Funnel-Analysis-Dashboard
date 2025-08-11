@@ -31,13 +31,12 @@ The dashboard was built using the following tools and technologies:
 - 🎛️ Dynamic Filtering: Slicers for Date Range, Channel, Location, and Customer Segment allow for deep-dive analysis.
 - 📈 Funnel Analysis: A dedicated funnel chart visualizes the customer journey and identifies key drop-off points.
 - 🎯 KPI Cards: High-level cards display critical metrics like Total Revenue, Overall ROAS, and Total Ad Spend for a quick performance overview.
-- 🌍 Geographic Insights: A map visual highlights revenue generation by location, identifying top-performing regions.
 
 ## Key Questions Answered (KPIs)
 
 1. What is the Return on Ad Spend (ROAS) for each marketing channel?
 2. How is the daily Conversion Rate trending over time?
-3. Which devices and geographic locations are generating the most revenue?
+3. Which devices are generating the most revenue?
 4. Where are the biggest drop-offs in the customer conversion funnel?
 5. Who are the most valuable customer segments (High, Average, Low spenders)?
 6. Which marketing channels are the most efficient at acquiring customers?
