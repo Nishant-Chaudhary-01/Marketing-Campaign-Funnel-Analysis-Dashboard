@@ -43,10 +43,10 @@ The dashboard was built using the following tools and technologies:
 7. What is the relationship between ad spend and revenue generated?
 
 ## Actionable Outcomes & Business Value
-- Optimized Ad Spend: The ROAS and campaign efficiency analysis allows marketing teams to reallocate budget from underperforming channels to high-performing ones, directly increasing ROI.
-- Improved Conversion Rates: By identifying the largest drop-off points in the conversion funnel, businesses can focus on improving the user experience at specific stages (e.g., checkout process), leading to     higher overall conversions.
-- Enhanced Customer Targeting: The customer segmentation analysis reveals the characteristics of the most valuable customers, enabling the creation of targeted marketing campaigns and retention strategies.
-- Data-Driven Strategic Planning: The dashboard provides a single source of truth for marketing performance, empowering leadership to make faster, more informed strategic decisions based on real data.
+- **Optimized Ad Spend**: The ROAS and campaign efficiency analysis allows marketing teams to reallocate budget from underperforming channels to high-performing ones, directly increasing ROI.
+- **Improved Conversion Rates**: By identifying the largest drop-off points in the conversion funnel, businesses can focus on improving the user experience at specific stages (e.g., checkout process), leading to     higher overall conversions.
+- **Enhanced Customer Targeting**: The customer segmentation analysis reveals the characteristics of the most valuable customers, enabling the creation of targeted marketing campaigns and retention strategies.
+- **Data-Driven Strategic Planning**: The dashboard provides a single source of truth for marketing performance, empowering leadership to make faster, more informed strategic decisions based on real data.
 
 ## Screenshot
 
